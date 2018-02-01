@@ -1,0 +1,19 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Sass Cache remove
+.sass-cache/
+
+# Ignore Map File
+*.map
+
+# Ignore Node modules
+node_modules
